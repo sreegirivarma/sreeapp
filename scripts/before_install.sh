@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /usr/share/tomcat8/webapp/devopsgurus*
+rm -rf /usr/share/tomcat/webapp/devopsgurus*
